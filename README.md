@@ -1,5 +1,5 @@
 
-PROBLEM STATEMENT
+### PROBLEM STATEMENT
 
 Please design a class hierarchy to represent the transactions in a grocery store. 
 
@@ -20,7 +20,7 @@ For example, you may need to apply a discount for all chips varieties. You may h
 Please ensure that your code clearly illustrates different OOPs concepts such as polymorphism, inheritance, information hiding, object, class, encapsulation.
 
 
-HOW TO EXECUTE
+### HOW TO EXECUTE
 
 1. Download the code
 2. Execute python main.py from the directory
